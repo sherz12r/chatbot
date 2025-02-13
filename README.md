@@ -77,4 +77,10 @@ Enjoy your chatbot interactions!
 * ### Hit a Star if you like this project
 
 
+if first time run below
+pip install numpy<br>
+and other packages
+<br>
+pip install scikit-learn
+<br>
 
